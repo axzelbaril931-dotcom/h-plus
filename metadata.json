@@ -1,0 +1,6 @@
+{
+  "name": "H Plus",
+  "description": "Hospital Management System that streamlines patient care, automates billing, and manages clinical workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
